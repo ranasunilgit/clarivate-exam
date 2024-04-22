@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clarivate-exam/static/css/main.a2e8927e.css",
-    "main.js": "/clarivate-exam/static/js/main.7d894579.js",
+    "main.js": "/clarivate-exam/static/js/main.d210856a.js",
     "index.html": "/clarivate-exam/index.html",
     "main.a2e8927e.css.map": "/clarivate-exam/static/css/main.a2e8927e.css.map",
-    "main.7d894579.js.map": "/clarivate-exam/static/js/main.7d894579.js.map"
+    "main.d210856a.js.map": "/clarivate-exam/static/js/main.d210856a.js.map"
   },
   "entrypoints": [
     "static/css/main.a2e8927e.css",
-    "static/js/main.7d894579.js"
+    "static/js/main.d210856a.js"
   ]
 }

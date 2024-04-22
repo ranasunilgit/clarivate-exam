@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clarivate-exam/static/css/main.a2e8927e.css",
+    "main.js": "/clarivate-exam/static/js/main.2385084d.js",
+    "index.html": "/clarivate-exam/index.html",
+    "main.a2e8927e.css.map": "/clarivate-exam/static/css/main.a2e8927e.css.map",
+    "main.2385084d.js.map": "/clarivate-exam/static/js/main.2385084d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e8927e.css",
+    "static/js/main.2385084d.js"
+  ]
+}
